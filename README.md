@@ -26,7 +26,8 @@ This project implements a machine learning-driven web page that recommends Holly
 1. The movie recommendation system preprocesses the movie dataset to extract relevant features.
 2. The cosine similarity algorithm is applied to calculate the similarity between movies based on these features.
 3. The system generates a comprehensive list of recommendations, sorted from the highest to the least recommended.
-4. The Streamlit framework facilitates the creation of a user-friendly web interface to interact with the recommendation system.
+4. If a user enters a wrong movie name, the system automatically corrects it using Difflib and recommends favorite movies.
+5. The Streamlit framework facilitates the creation of a user-friendly web interface to interact with the recommendation system.
 
 ## Screenshots
 
@@ -48,3 +49,6 @@ This project makes use of the following libraries and frameworks:
 - **Pickle**: Model loading and saving.
 - **Streamlit**: Web application framework for user interface development.
 
+---
+
+Thank you for visiting our movie recommendation system! We hope you find it useful and enjoy discovering new favorite movies. If you have any questions or suggestions, please feel free to reach out.
