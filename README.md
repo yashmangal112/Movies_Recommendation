@@ -31,11 +31,12 @@ This project implements a machine learning-driven web page that recommends Holly
 
 ## Screenshots
 
-![Screenshot 1](https://github.com/yashmangal112/Movies_Recommendation/assets/104120843/70add10a-f21a-4cf5-b4b6-9848bd48f427)
-![Screenshot 2](https://github.com/yashmangal112/Movies_Recommendation/assets/104120843/9ebf4cd8-e67c-4fda-a941-654cd1c9f181)
+![Screenshot 1](https://github.com/yashmangal112/Movies_Recommendation/assets/104120843/867f907b-9d59-4d4a-9fcb-3a93e6c81a07)
+![Screenshot 2](https://github.com/yashmangal112/Movies_Recommendation/assets/104120843/a7b5f595-78fc-4dc5-ae6b-0a2ca69b4733)
 > Sample screenshot showing the movie recommendation web page.
 
-![Screenshot 3](https://github.com/yashmangal112/Movies_Recommendation/assets/104120843/df73239e-8d49-42d9-872c-9eb34cb870dd)
+
+![Screenshot 3](https://github.com/yashmangal112/Movies_Recommendation/assets/104120843/53cb1a46-95d5-446f-8515-c2696e3723ce)
 > Automatically corrects wrong movie names and recommends favorite movies.
 
 
